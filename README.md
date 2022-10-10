@@ -1,7 +1,5 @@
 [<img src="https://komarev.com/ghpvc/?username=handi91" alt="Handi's profile views" align="right" />](<a href="https://github.com/Meghna-DAS/github-profile-views-counter">)
 
-<br />
-
 <h1 align="center">
   Hi There 👋, I'm Handi
 </h1>
@@ -16,13 +14,13 @@
 - ⚡ Fun fact: I'm a <strong>FAST</strong> learner
 
 
-<h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3> 🤝 Connect with me </h3>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/handi-1a62b015a/)
 
 ---
 
-<h2 align="center">⚡ Github Stats ⚡</h2>
+<h2 align="center">⚡<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Github Stats ⚡</h2>
 
 <br />
 
