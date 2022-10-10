@@ -31,9 +31,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=handi91&theme=material-palenight" alt="Handi's github stats" align="right" height="360px" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=handi91&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Handi's github stats" width="460x" />
+  <img src="https://github-readme-stats.vercel.app/api?username=handi91&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Handi's github stats" width="450x" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=handi91&theme=material-palenight&currStreakNum=fe8dab&currStreakLabel=fe8dab" alt="Handi's github stats" width="460px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=handi91&theme=material-palenight&currStreakNum=fe8dab&currStreakLabel=fe8dab" alt="Handi's github stats" width="450px" />
   <br />
   <br/>
 </div>
